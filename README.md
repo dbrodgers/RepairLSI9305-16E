@@ -26,6 +26,9 @@ In order to fix it I've had to
 1. Download the firmware and sas3flash and efi shell
 2. make a fat32 formatted usb drive
 3. put the efi shell into the required directory structure and file name required by your motherboard vendor (in my case that is /efi/boot/shellx64.efi
-5. boot into the the efi shell (choose the device from your motherboard boot utility) 
+5. boot into the the efi shell (choose the device from your motherboard boot utility)
+
+Most recent firmware download from broadcom https://docs.broadcom.com/docs/9305_16e_Pkg_P16.12_IT_FW_BIOS_for_MSDOS_Windows.zip
+Sas3flash tool from broadcom https://docs.broadcom.com/docs/SAS3FLASH_P15.zip 
 
 
